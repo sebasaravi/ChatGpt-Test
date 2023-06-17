@@ -1,3 +1,5 @@
+'use client';
+
 export default function Charac() {
     return (
         <section className="bg-white dark:bg-gray-900">

@@ -3,7 +3,7 @@ import { Content } from "next/font/google";
 import { Configuration, OpenAIApi } from "openai";
 
 
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "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";
 
 const configuration = new Configuration({
   apiKey: OPENAI_API_KEY,
