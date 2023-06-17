@@ -8,7 +8,7 @@ export default function Charac() {
                     <p className="mb-4">
                     Despierta tu creatividad culinaria con nuestro software de ingredientes, 
                     donde cada receta se convierte en una obra maestra sabrosa y sorprendente.</p>
-                    
+                
                 </div>
 
                 <div className="font-light text-gray-500 sm:text-lg dark:text-gray-400 text-center">
